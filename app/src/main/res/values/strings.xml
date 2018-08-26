@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">les scores</string>
+    <string name="team_a_name">Equipe A</string>
+    <string name="team_b_name">Equipe B</string>
+    <string name="plus_1">+1</string>
+    <string name="plus_2">+2</string>
+    <string name="plus_3">+3</string>
+    <string name="reset">Reset</string>
+
+</resources>
